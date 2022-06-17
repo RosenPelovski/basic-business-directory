@@ -1,0 +1,23 @@
+.listHeader {
+    display: flex;
+    border-radius: 2px;
+    align-items: center;
+    height: 7vh;
+    min-height: 40px;
+    padding: 4px 30px;
+    font-size: small;
+    margin-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #b41e77;
+    background-color: white
+}
+
+.column {
+    display: flex;
+    flex: 1;
+    height: 100%;
+    align-items: center;
+
+
+}
